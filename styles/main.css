@@ -1,0 +1,44 @@
+h1.standard {
+    color:rgb(3, 248, 93);
+    font-size:25px;
+    text-align: center;
+    
+    
+}
+p.p {
+    color: antiquewhite;
+    font-size: 20px;
+    
+}
+li {
+    color: red;
+     font-size: 20px;
+     font-style: italic;
+     text-align: center;
+    
+}
+.h {
+    background-color: black;
+    text-align: center;
+    width: 270px;
+    height: 390px;
+ display: inline-block;
+}
+.CH{
+background-color: #f00;
+}
+h1.Expert {
+    color: rgb(3,248,93);
+    font-size: 25px;
+    text-align: center;
+}
+h1.Elite {
+    color:rgb(3, 248, 93);
+    font-size: 25px ;
+    text-align: center;
+}
+
+img.i {
+    width: 250px;
+    height: 125px;
+}
